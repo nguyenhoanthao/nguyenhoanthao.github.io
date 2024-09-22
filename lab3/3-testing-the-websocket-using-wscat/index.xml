@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing the WebSocket APIs Using-wscat on Amazon API Gateway.</title>
+    <link>http://nguyenhoanthao.github.io/lab3/3-testing-the-websocket-using-wscat/</link>
+    <description>Recent content in Testing the WebSocket APIs Using-wscat on Amazon API Gateway.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://nguyenhoanthao.github.io/lab3/3-testing-the-websocket-using-wscat/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
